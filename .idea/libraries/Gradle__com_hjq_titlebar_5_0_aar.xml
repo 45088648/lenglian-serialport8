@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.hjq:titlebar:5.0@aar">
+    <CLASSES>
+      <root url="file://D:/AndroidStudioCache/.gradle/caches/transforms-1/files-1.1/titlebar-5.0.aar/73aab5fab76e854e3d97b69685305e73/res" />
+      <root url="jar://D:/AndroidStudioCache/.gradle/caches/transforms-1/files-1.1/titlebar-5.0.aar/73aab5fab76e854e3d97b69685305e73/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/AndroidStudioCache/.gradle/caches/modules-2/files-2.1/com.hjq/titlebar/5.0/9fa3f3c4332fed24ec77253f02639d66b6943ec7/titlebar-5.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
